@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0875-koko-eating-bananas) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0875-koko-eating-bananas) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
