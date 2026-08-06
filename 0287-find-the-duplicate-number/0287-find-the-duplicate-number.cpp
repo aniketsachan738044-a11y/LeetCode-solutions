@@ -1,13 +1,22 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        int n = nums.size();
-        int i = 0;
-        while(i<n){
-            int correctIdx = nums[i];
-            if(nums[correctIdx]==nums[i]) return nums[i];
-            else swap(nums[i],nums[correctIdx]);
+        int slow = nums[0];
+        int fast = nums[0];
+        
+        // Phase 1: Find intersection point in the cycle
+        do {
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+        } while (slow != fast);
+        
+        // Phase 2: Find entrance to the cycle (the duplicate number)
+        slow = nums[0];
+        while (slow != fast) {
+            slow = nums[slow];
+            fast = nums[fast];
         }
-        return 1000;
+        
+        return slow;
     }
 };
