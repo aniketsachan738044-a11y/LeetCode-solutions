@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
