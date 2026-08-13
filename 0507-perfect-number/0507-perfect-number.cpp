@@ -1,8 +1,21 @@
+
 class Solution {
 public:
-    bool checkPerfectNumber(int n) {
+    bool checkPerfectNumber(int num) {
+        if (num == 1) return false;
         int sum = 0;
-        for(int i  =1;i<n;i++) if(n%i==0) sum +=i;
-        return (sum==n);
+        get_devisors(num, sum);
+        // printf("%d\n", sum);
+        return sum - num == num;
+    }
+
+private:
+    void get_devisors(int num, int& sum) {
+        for (int i = sqrt(num); i >= 1; --i) {
+            if (num % i != 0) continue;
+            sum += i;
+            if (i * i != num)
+                sum += num / i;
+        }
     }
 };
