@@ -1,16 +1,23 @@
 class Solution {
 public:
     int countPrimes(int n){
-        if(n < 3) return 0;
-        vector<char> sieve(n, 1);   // char instead of bool — faster access
-        sieve[0] = sieve[1] = 0;
+        static vector<char> sieve;
+        static int maxN = -1;
         
-        for(int i = 2; (long long)i * i < n; i++){
-            if(sieve[i]){
-                for(int j = i * i; j < n; j += i){
-                    sieve[j] = 0;
+        if(n < 3) return 0;
+        
+        if(n - 1 > maxN){
+            sieve.assign(n, 1);
+            sieve[0] = sieve[1] = 0;
+            
+            for(int i = 2; (long long)i * i < n; i++){
+                if(sieve[i]){
+                    for(int j = i * i; j < n; j += i){
+                        sieve[j] = 0;
+                    }
                 }
             }
+            maxN = n - 1;
         }
         
         int count = 0;
