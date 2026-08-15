@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2965-find-missing-and-repeated-values](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2614-prime-in-diagonal) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -337,19 +341,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Primality Test
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
