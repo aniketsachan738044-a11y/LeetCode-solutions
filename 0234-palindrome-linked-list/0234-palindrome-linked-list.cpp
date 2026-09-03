@@ -22,34 +22,23 @@ public:
     }
 
     bool isPalindrome(ListNode* head) {
-        if (!head || !head->next) return true;
-
-        // Step 1: find the middle using slow/fast pointers
-        ListNode *slow = head, *fast = head;
-        while (fast->next && fast->next->next) {
+        // if the first half and second half are reverse of each
+        // other then it is a palindrome
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while (fast->next != NULL && fast->next->next != NULL) {
             slow = slow->next;
             fast = fast->next->next;
         }
-
-        // Step 2: reverse the second half (starting right after slow)
-        ListNode* secondHalf = reverseList(slow->next);
-
-        // Step 3: compare first half and reversed second half
-        ListNode* p1 = head;
-        ListNode* p2 = secondHalf;
-        bool result = true;
-        while (p2) {
-            if (p1->val != p2->val) {
-                result = false;
-                break;
-            }
-            p1 = p1->next;
-            p2 = p2->next;
+        // slow is at the left middle / middle
+        ListNode* newHead = reverseList(slow->next);
+        ListNode* a = head;
+        ListNode* b = newHead;
+        while (b) {
+            if (a->val != b->val) return false;
+            a = a->next;
+            b = b->next;
         }
-
-        // Step 4 (optional but good practice): restore the list
-        slow->next = reverseList(secondHalf);
-
-        return result;
+        return true;
     }
 };
