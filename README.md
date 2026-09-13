@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/1140-stone-game-ii) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/1260-shift-2d-grid) |
 | [2326-spiral-matrix-iv](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2326-spiral-matrix-iv) |
 | [2614-prime-in-diagonal](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2614-prime-in-diagonal) |
