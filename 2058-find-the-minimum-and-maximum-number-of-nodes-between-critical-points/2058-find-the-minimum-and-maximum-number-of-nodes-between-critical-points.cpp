@@ -11,41 +11,45 @@
 class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        vector<int> ans = {-1, -1};
-
-        ListNode* prev = head;
-        ListNode* curr = head->next;
-
-        int pos = 1;
-        int first = -1;
-        int last = -1;
-        int minDist = INT_MAX;
-
-        while (curr != nullptr && curr->next != nullptr) {
-            if ((curr->val > prev->val && curr->val > curr->next->val) ||
-                (curr->val < prev->val && curr->val < curr->next->val)) {
-
-                if (first == -1) {
-                    first = pos;
-                } else {
-                    minDist = min(minDist, pos - last);
-                }
-
-                last = pos;
-            }
-
-            prev = curr;
-            curr = curr->next;
-            pos++;
+    int idx = 1;
+    int fidx = -1;
+    int sidx = -1;
+    ListNode* a = head;
+    ListNode* b = head->next;
+    ListNode* c = head->next->next;
+    if(c==NULL) return{-1,-1};
+    while(c){
+        if(b->val > a->val && b->val > c->val || b->val < a->val && b->val < c->val){
+            if(fidx ==-1) fidx = idx;
+            else sidx = idx ;
         }
-
-        if (first == -1 || first == last) {
-            return ans;
+        a = a->next;
+        b = b->next;
+        c = c->next;
+        idx++;
+    }
+    if(sidx==-1) return {-1,-1};
+    int maxd = sidx -fidx;
+    int mind = INT_MAX;
+    fidx = -1;
+    sidx = -1;
+     a = head;
+      b = head->next;
+       c = head->next->next;
+    while(c){
+        if(b->val > a->val && b->val > c->val || b->val < a->val && b->val < c->val){
+          fidx = sidx;
+          sidx = idx;
+          if(fidx!=1){
+          int d = sidx-fidx;
+          mind = min(mind,d);
+          }
         }
-
-        ans[0] = minDist;
-        ans[1] = last - first;
-
-        return ans;
+        a = a->next;
+        b = b->next;
+        c = c->next;
+        idx++;
+    }
+    return{mind,maxd};
     }
 };
