@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/1872-stone-game-viii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Greedy
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/aniketsachan738044-a11y/https-github.com-aniketsachan738044-a11y-LeetCode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Matrix
 |  |
 | ------- |
