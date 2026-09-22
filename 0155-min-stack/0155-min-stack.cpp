@@ -1,29 +1,29 @@
 class MinStack {
-    stack<int> st;
-    stack<int> helper;
+    vector<int> v;       // main stack
+    vector<int> mins;    // tracks minimum at each stack level
+
 public:
-    MinStack() { // constructor
-    }
+    MinStack() { }
 
-    void push(int val) { // O(1)
-        st.push(val);
-        if (helper.empty() || val <= helper.top())
-            helper.push(val);
+    void push(int val) {
+        v.push_back(val);
+        if (mins.empty() || val <= mins.back())
+            mins.push_back(val);
         else
-            helper.push(helper.top());
+            mins.push_back(mins.back());
     }
 
-    void pop() { // O(1)
-        st.pop();
-        helper.pop();
+    void pop() {
+        v.pop_back();
+        mins.pop_back();
     }
 
-    int top() { // O(1)
-        return st.top();
+    int top() {
+        return v.back();
     }
 
     int getMin() {
-        return helper.top();
+        return mins.back();
     }
 };
 /**
