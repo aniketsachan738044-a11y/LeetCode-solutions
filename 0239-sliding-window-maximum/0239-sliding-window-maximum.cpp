@@ -2,28 +2,27 @@ class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& arr, int k) {
         int n = arr.size();
-        int ngi[n];
-        stack<int> st;
-        ngi[n-1] = n;
-        st.push(n-1);
-        for(int i=n-2;i>=0;i--){
-            while(st.size()>0 && arr[st.top()]<=arr[i]){
-                st.pop();
-            }
-            if(st.size()==0) ngi[i] = n;
-            else ngi[i] = st.top();
-            st.push(i);
-        }
-
+        deque<int> dq; // stores indices, values in decreasing order
         vector<int> ans;
-        for(int i=0;i<n-k+1;i++){
-            int mx = arr[i]; // starting of window
-            int j = i;
-            while(ngi[j] < i+k){ // means if nge is inside the window
-                j = ngi[j];      // jump to next greater index FIRST
-                mx = arr[j];     // THEN update mx from the new index
+
+        for (int i = 0; i < n; i++) {
+            // remove indices that are out of this window's range
+            if (!dq.empty() && dq.front() <= i - k) {
+                dq.pop_front();
             }
-            ans.push_back(mx);
+
+            // remove smaller elements from back — they can never be the max
+            // while a larger/equal element exists to their right
+            while (!dq.empty() && arr[dq.back()] <= arr[i]) {
+                dq.pop_back();
+            }
+
+            dq.push_back(i);
+
+            // front of deque is always the max of current window
+            if (i >= k - 1) {
+                ans.push_back(arr[dq.front()]);
+            }
         }
         return ans;
     }
